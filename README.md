@@ -30,9 +30,11 @@ I'm Abanoub!
 ![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net)
 
 </div>
-
+<div align="center">
+  <img  src="https://github.com/abanoub321/abanoub321/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 </h1>
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-milad/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abanoubmilad12@gmail.com)
@@ -41,11 +43,12 @@ Welcome to my Github page! I am Abanoub and I am currently finishing my Computer
 
 <img align="right" alt="img" src="https://github.com/abanoub321/abanoub321/blob/main/cover_image.jpg" width="50%" height="auto" />
 
+#### 🌱 Things I am currently working on
 
-#### 🌱 Things I am currently working on:   
-- Taking online courses about Back-end Development 
+- Taking online courses about Back-end Development
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle: Things I am challenging myself with
+
 - Waking up earlier to make good use of the day
 - Coding at least 6 hours a day
 - Exercising 3 days a week
@@ -55,11 +58,10 @@ Welcome to my Github page! I am Abanoub and I am currently finishing my Computer
 
 For more info please refer to my [Resume](https://drive.google.com/file/d/18hnPM4xIm5pXwPvRUgvZrSVydlwkcYBq/view?usp=share_link)
 
+#### :computer: Programming languages and tools
 
-#### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=abanoub321&show_icons=true&hide_border=true" />
-
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=abanoub321&show_icons=true&hide_border=true" />
 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-typescript-0000ff?style=flat&logo=typescript&logoColor=fff">
