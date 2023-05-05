@@ -26,8 +26,8 @@
 I'm Abanoub!
 <div align=right>
 
-![counter](https://en4u5rphp26v6e8.m.pipedream.net)
-![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net)
+<!-- ![counter](https://en4u5rphp26v6e8.m.pipedream.net)
+![Most Active GitHub User Rank](https://enksdv5x6tt42mz.m.pipedream.net) -->
 
 </div>
 <div align="center">
@@ -59,7 +59,7 @@ Welcome to my Github page! I am Abanoub and I am currently finishing my Computer
 
 [Ask](https://github.com/abanoub321/abanoub321/discussions/new?category=q-a) me anything 💭
 
-For more info please refer to my [Resume](https://drive.google.com/file/d/18hnPM4xIm5pXwPvRUgvZrSVydlwkcYBq/view?usp=share_link)
+<!-- For more info please refer to my [Resume](https://drive.google.com/file/d/18hnPM4xIm5pXwPvRUgvZrSVydlwkcYBq/view?usp=share_link) -->
 
 #### :computer: Programming languages and tools
 
