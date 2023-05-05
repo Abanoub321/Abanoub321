@@ -45,14 +45,17 @@ Welcome to my Github page! I am Abanoub and I am currently finishing my Computer
 
 #### 🌱 Things I am currently working on
 
-- Taking online courses about Back-end Development
+- Finishing my BS degree
+- Learning more Frameworks and Libraries related to Node.js
+- Learning more Backend Frameworks to build APIs in many languages like Python and Go
 
 #### :muscle: Things I am challenging myself with
 
-- Waking up earlier to make good use of the day
-- Coding at least 6 hours a day
-- Exercising 3 days a week
-- Improving my CV
+- Learning new things everyday
+- Reading more books
+- Being more social
+- Learning more about Machine Learning and Deep Learning
+- Learning more about Data Science
 
 [Ask](https://github.com/abanoub321/abanoub321/discussions/new?category=q-a) me anything 💭
 
