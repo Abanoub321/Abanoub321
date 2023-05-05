@@ -39,7 +39,7 @@ I'm Abanoub!
 
 Welcome to my Github page! I am Abanoub and I am currently finishing my Computer Science BS degree at the university of Ain Shams!  
 
-<img align="right" alt="img" src="https://github.com/abanoub321/abanoub321/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/abanoub321/abanoub321/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on:   
